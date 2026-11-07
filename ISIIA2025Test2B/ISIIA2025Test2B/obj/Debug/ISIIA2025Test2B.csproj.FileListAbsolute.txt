@@ -1,0 +1,33 @@
+C:\Users\09400167\source\repos\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.csproj.AssemblyReference.cache
+C:\Users\09400167\source\repos\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.LogAdm.resources
+C:\Users\09400167\source\repos\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.Properties.Resources.resources
+C:\Users\09400167\source\repos\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.Purchase.resources
+C:\Users\09400167\source\repos\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.csproj.GenerateResource.cache
+C:\Users\09400167\source\repos\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.csproj.CoreCompileInputs.cache
+C:\Users\09400167\source\repos\ISIIA2025Test2B\bin\Debug\ISIIA2025Test2B.exe.config
+C:\Users\09400167\source\repos\ISIIA2025Test2B\bin\Debug\ISIIA2025Test2B.exe
+C:\Users\09400167\source\repos\ISIIA2025Test2B\bin\Debug\ISIIA2025Test2B.pdb
+C:\Users\09400167\source\repos\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.exe
+C:\Users\09400167\source\repos\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.pdb
+C:\Users\2883601\Downloads\ISIIA2025Test2B\ISIIA2025Test2B\bin\Debug\ISIIA2025Test2B.exe.config
+C:\Users\2883601\Downloads\ISIIA2025Test2B\ISIIA2025Test2B\bin\Debug\ISIIA2025Test2B.exe
+C:\Users\2883601\Downloads\ISIIA2025Test2B\ISIIA2025Test2B\bin\Debug\ISIIA2025Test2B.pdb
+C:\Users\2883601\Downloads\ISIIA2025Test2B\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.csproj.AssemblyReference.cache
+C:\Users\2883601\Downloads\ISIIA2025Test2B\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.LogAdm.resources
+C:\Users\2883601\Downloads\ISIIA2025Test2B\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.Properties.Resources.resources
+C:\Users\2883601\Downloads\ISIIA2025Test2B\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.Purchase.resources
+C:\Users\2883601\Downloads\ISIIA2025Test2B\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.csproj.GenerateResource.cache
+C:\Users\2883601\Downloads\ISIIA2025Test2B\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.csproj.CoreCompileInputs.cache
+C:\Users\2883601\Downloads\ISIIA2025Test2B\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.exe
+C:\Users\2883601\Downloads\ISIIA2025Test2B\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.pdb
+C:\Users\2883601\OneDrive - University of Witwatersrand\ISIIA2025Test2B\ISIIA2025Test2B\bin\Debug\ISIIA2025Test2B.exe.config
+C:\Users\2883601\OneDrive - University of Witwatersrand\ISIIA2025Test2B\ISIIA2025Test2B\bin\Debug\ISIIA2025Test2B.exe
+C:\Users\2883601\OneDrive - University of Witwatersrand\ISIIA2025Test2B\ISIIA2025Test2B\bin\Debug\ISIIA2025Test2B.pdb
+C:\Users\2883601\OneDrive - University of Witwatersrand\ISIIA2025Test2B\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.csproj.AssemblyReference.cache
+C:\Users\2883601\OneDrive - University of Witwatersrand\ISIIA2025Test2B\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.LogAdm.resources
+C:\Users\2883601\OneDrive - University of Witwatersrand\ISIIA2025Test2B\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.Properties.Resources.resources
+C:\Users\2883601\OneDrive - University of Witwatersrand\ISIIA2025Test2B\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.Purchase.resources
+C:\Users\2883601\OneDrive - University of Witwatersrand\ISIIA2025Test2B\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.csproj.GenerateResource.cache
+C:\Users\2883601\OneDrive - University of Witwatersrand\ISIIA2025Test2B\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.csproj.CoreCompileInputs.cache
+C:\Users\2883601\OneDrive - University of Witwatersrand\ISIIA2025Test2B\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.exe
+C:\Users\2883601\OneDrive - University of Witwatersrand\ISIIA2025Test2B\ISIIA2025Test2B\obj\Debug\ISIIA2025Test2B.pdb
