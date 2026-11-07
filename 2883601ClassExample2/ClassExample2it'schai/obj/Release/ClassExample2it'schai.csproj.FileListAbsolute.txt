@@ -1,0 +1,10 @@
+C:\Users\mbasa\source\repos\ClassExample2it'schai\bin\Release\ClassExample2it'schai.exe.config
+C:\Users\mbasa\source\repos\ClassExample2it'schai\bin\Release\ClassExample2it'schai.exe
+C:\Users\mbasa\source\repos\ClassExample2it'schai\bin\Release\ClassExample2it'schai.pdb
+C:\Users\mbasa\source\repos\ClassExample2it'schai\obj\Release\ClassExample2it'schai.csproj.AssemblyReference.cache
+C:\Users\mbasa\source\repos\ClassExample2it'schai\obj\Release\ClassExample2it_schai.Form1.resources
+C:\Users\mbasa\source\repos\ClassExample2it'schai\obj\Release\ClassExample2it_schai.Properties.Resources.resources
+C:\Users\mbasa\source\repos\ClassExample2it'schai\obj\Release\ClassExample2it'schai.csproj.GenerateResource.cache
+C:\Users\mbasa\source\repos\ClassExample2it'schai\obj\Release\ClassExample2it'schai.csproj.CoreCompileInputs.cache
+C:\Users\mbasa\source\repos\ClassExample2it'schai\obj\Release\ClassExample2it'schai.exe
+C:\Users\mbasa\source\repos\ClassExample2it'schai\obj\Release\ClassExample2it'schai.pdb
