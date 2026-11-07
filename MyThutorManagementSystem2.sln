@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyThutorManagementSystem2", "MyThutorManagementSystem2.csproj", "{B54F3158-0755-4EC7-9A6D-56F7D2179072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B54F3158-0755-4EC7-9A6D-56F7D2179072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54F3158-0755-4EC7-9A6D-56F7D2179072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54F3158-0755-4EC7-9A6D-56F7D2179072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54F3158-0755-4EC7-9A6D-56F7D2179072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79E3433C-67C7-4A55-8BE5-0DACD40AFDCA}
+	EndGlobalSection
+EndGlobal
