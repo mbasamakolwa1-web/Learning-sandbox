@@ -1,0 +1,24 @@
+C:\Users\09400167\source\repos\ISIIA2026ProgTest2\bin\Debug\ISIIA2026ProgTest2.exe.config
+C:\Users\09400167\source\repos\ISIIA2026ProgTest2\bin\Debug\ISIIA2026ProgTest2.exe
+C:\Users\09400167\source\repos\ISIIA2026ProgTest2\bin\Debug\ISIIA2026ProgTest2.pdb
+C:\Users\09400167\source\repos\ISIIA2026ProgTest2\obj\Debug\ISIIA2026ProgTest2.csproj.AssemblyReference.cache
+C:\Users\09400167\source\repos\ISIIA2026ProgTest2\obj\Debug\ISIIA2026ProgTest2.Properties.Resources.resources
+C:\Users\09400167\source\repos\ISIIA2026ProgTest2\obj\Debug\ISIIA2026ProgTest2.csproj.GenerateResource.cache
+C:\Users\09400167\source\repos\ISIIA2026ProgTest2\obj\Debug\ISIIA2026ProgTest2.csproj.CoreCompileInputs.cache
+C:\Users\09400167\source\repos\ISIIA2026ProgTest2\obj\Debug\ISIIA2026ProgTest2.exe
+C:\Users\09400167\source\repos\ISIIA2026ProgTest2\obj\Debug\ISIIA2026ProgTest2.pdb
+C:\Users\09400167\source\repos\ISIIA2026ProgTest2\obj\Debug\ISIIA2026ProgTest2.exe.config
+C:\Users\09400167\source\repos\ISIIA2026ProgTest2\obj\Debug\ISIIA2026ProgTest2.Services.resources
+C:\Users\09400167\source\repos\ISIIA2026ProgTest2\obj\Debug\ISIIA2026ProgTest2.LoginAdmin.resources
+C:\Users\2883601\OneDrive - University of Witwatersrand\2883601Test2\bin\Debug\ISIIA2026ProgTest2.exe.config
+C:\Users\2883601\OneDrive - University of Witwatersrand\2883601Test2\bin\Debug\ISIIA2026ProgTest2.exe
+C:\Users\2883601\OneDrive - University of Witwatersrand\2883601Test2\bin\Debug\ISIIA2026ProgTest2.pdb
+C:\Users\2883601\OneDrive - University of Witwatersrand\2883601Test2\obj\Debug\ISIIA2026ProgTest2.csproj.AssemblyReference.cache
+C:\Users\2883601\OneDrive - University of Witwatersrand\2883601Test2\obj\Debug\ISIIA2026ProgTest2.exe.config
+C:\Users\2883601\OneDrive - University of Witwatersrand\2883601Test2\obj\Debug\ISIIA2026ProgTest2.Services.resources
+C:\Users\2883601\OneDrive - University of Witwatersrand\2883601Test2\obj\Debug\ISIIA2026ProgTest2.LoginAdmin.resources
+C:\Users\2883601\OneDrive - University of Witwatersrand\2883601Test2\obj\Debug\ISIIA2026ProgTest2.Properties.Resources.resources
+C:\Users\2883601\OneDrive - University of Witwatersrand\2883601Test2\obj\Debug\ISIIA2026ProgTest2.csproj.GenerateResource.cache
+C:\Users\2883601\OneDrive - University of Witwatersrand\2883601Test2\obj\Debug\ISIIA2026ProgTest2.csproj.CoreCompileInputs.cache
+C:\Users\2883601\OneDrive - University of Witwatersrand\2883601Test2\obj\Debug\ISIIA2026ProgTest2.exe
+C:\Users\2883601\OneDrive - University of Witwatersrand\2883601Test2\obj\Debug\ISIIA2026ProgTest2.pdb
