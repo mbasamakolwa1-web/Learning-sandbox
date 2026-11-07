@@ -1,0 +1,10 @@
+C:\Users\mbasa\source\repos\2883601ClassExample1Thefirstone\bin\Release\2883601ClassExample1Thefirstone.exe.config
+C:\Users\mbasa\source\repos\2883601ClassExample1Thefirstone\bin\Release\2883601ClassExample1Thefirstone.exe
+C:\Users\mbasa\source\repos\2883601ClassExample1Thefirstone\bin\Release\2883601ClassExample1Thefirstone.pdb
+C:\Users\mbasa\source\repos\2883601ClassExample1Thefirstone\obj\Release\2883601ClassExample1Thefirstone.csproj.AssemblyReference.cache
+C:\Users\mbasa\source\repos\2883601ClassExample1Thefirstone\obj\Release\_2883601ClassExample1Thefirstone.Form1.resources
+C:\Users\mbasa\source\repos\2883601ClassExample1Thefirstone\obj\Release\_2883601ClassExample1Thefirstone.Properties.Resources.resources
+C:\Users\mbasa\source\repos\2883601ClassExample1Thefirstone\obj\Release\2883601ClassExample1Thefirstone.csproj.GenerateResource.cache
+C:\Users\mbasa\source\repos\2883601ClassExample1Thefirstone\obj\Release\2883601ClassExample1Thefirstone.csproj.CoreCompileInputs.cache
+C:\Users\mbasa\source\repos\2883601ClassExample1Thefirstone\obj\Release\2883601ClassExample1Thefirstone.exe
+C:\Users\mbasa\source\repos\2883601ClassExample1Thefirstone\obj\Release\2883601ClassExample1Thefirstone.pdb
