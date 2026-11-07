@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive - University of Witwatersrand\MyThutorManagementSystem2\bin\Debug\Database8.accdb
+C:\Users\User\OneDrive - University of Witwatersrand\MyThutorManagementSystem2\bin\Debug\MyThutorManagementSystem2.exe.config
+C:\Users\User\OneDrive - University of Witwatersrand\MyThutorManagementSystem2\bin\Debug\MyThutorManagementSystem2.exe
+C:\Users\User\OneDrive - University of Witwatersrand\MyThutorManagementSystem2\bin\Debug\MyThutorManagementSystem2.pdb
+C:\Users\User\OneDrive - University of Witwatersrand\MyThutorManagementSystem2\obj\Debug\MyThutorManagementSystem2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - University of Witwatersrand\MyThutorManagementSystem2\obj\Debug\MyThutorManagementSystem2.Properties.Resources.resources
+C:\Users\User\OneDrive - University of Witwatersrand\MyThutorManagementSystem2\obj\Debug\MyThutorManagementSystem2.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - University of Witwatersrand\MyThutorManagementSystem2\obj\Debug\MyThutorManagementSystem2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - University of Witwatersrand\MyThutorManagementSystem2\obj\Debug\MyThutorManagementSystem2.exe
+C:\Users\User\OneDrive - University of Witwatersrand\MyThutorManagementSystem2\obj\Debug\MyThutorManagementSystem2.pdb
+C:\Users\User\OneDrive - University of Witwatersrand\MyThutorManagementSystem2\obj\Debug\MyThutorManagementSystem2.exe.config
+C:\Users\User\OneDrive - University of Witwatersrand\MyThutorManagementSystem2\obj\Debug\MyThutorManagementSystem2.AdminForm2.resources
+C:\Users\User\OneDrive - University of Witwatersrand\MyThutorManagementSystem2\obj\Debug\MyThutorManagementSystem2.Form1.resources
+C:\Users\User\OneDrive - University of Witwatersrand\MyThutorManagementSystem2\obj\Debug\MyThutorManagementSystem2.StudentForm2.resources
