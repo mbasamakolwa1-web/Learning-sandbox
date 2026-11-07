@@ -1,0 +1,11 @@
+C:\Users\09400167\source\repos\ISIIA2025Test2A\obj\Debug\ISIIA2025Test2A.csproj.AssemblyReference.cache
+C:\Users\09400167\source\repos\ISIIA2025Test2A\obj\Debug\ISIIA2025Test2A.LogAdmin.resources
+C:\Users\09400167\source\repos\ISIIA2025Test2A\obj\Debug\ISIIA2025Test2A.Properties.Resources.resources
+C:\Users\09400167\source\repos\ISIIA2025Test2A\obj\Debug\ISIIA2025Test2A.Purchase.resources
+C:\Users\09400167\source\repos\ISIIA2025Test2A\obj\Debug\ISIIA2025Test2A.csproj.GenerateResource.cache
+C:\Users\09400167\source\repos\ISIIA2025Test2A\obj\Debug\ISIIA2025Test2A.csproj.CoreCompileInputs.cache
+C:\Users\09400167\source\repos\ISIIA2025Test2A\bin\Debug\ISIIA2025Test2A.exe.config
+C:\Users\09400167\source\repos\ISIIA2025Test2A\bin\Debug\ISIIA2025Test2A.exe
+C:\Users\09400167\source\repos\ISIIA2025Test2A\bin\Debug\ISIIA2025Test2A.pdb
+C:\Users\09400167\source\repos\ISIIA2025Test2A\obj\Debug\ISIIA2025Test2A.exe
+C:\Users\09400167\source\repos\ISIIA2025Test2A\obj\Debug\ISIIA2025Test2A.pdb
